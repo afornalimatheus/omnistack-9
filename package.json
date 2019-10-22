@@ -1,0 +1,8 @@
+{
+  "name": "omnistack-9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/afornalimatheus/omnistack-9.git",
+  "author": "Matheus <matheus.afornali@gobrax.com>",
+  "license": "MIT"
+}
